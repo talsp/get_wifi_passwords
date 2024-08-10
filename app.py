@@ -1,6 +1,12 @@
 import subprocess
 import pandas as pd
 
+print("#"*90)
+print("     Author: Tal Sperling")
+print("     This code is to be used for educational purposes or legal penetration testing only")
+print("     I do not take responsibility for any misuse or illegal action/use of this code")
+print("#"*90+"\n")
+
 def get_wifi_passwords():
         
         data = []
